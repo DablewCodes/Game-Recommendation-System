@@ -1,4 +1,4 @@
-#Game recommendation model
+# Video Game Recommendation Model
 
 This recommendation model utilizes a content-based filtering approach to suggest games related to a user-entered title.
 
